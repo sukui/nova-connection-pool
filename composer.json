@@ -11,7 +11,7 @@
     "zanphp/support": "dev-master",
     "zanphp/exception": "dev-master",
     "zanphp/timer": "dev-master",
-    "zanphp/container": "dev-master"
+    "zanphp/container": "dev-laogui"
   },
   "autoload": {
     "psr-4": {
